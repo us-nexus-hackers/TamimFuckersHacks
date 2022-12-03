@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tamim_FUCKRS</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh And Work Now Russia Black Hat</h3>
 <img align="right"alt="Coding" width="400"src="https://i.pinimg.com/originals/b8/a3/cd/b8a3cd1fad69ee87b4a843ca7769f49a.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimfuckershacks&label=Profile%20views&color=0e75b6&style=flat" alt="tamimfuckershacks" /> </p>
+<p align="left"> <img src="https://i.gifer.com/origin/46/46400cbacaf8eb1b36a89cdcd7da6740_w200.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamimfuckershacks" alt="tamimfuckershacks" /></a> </p>
 
